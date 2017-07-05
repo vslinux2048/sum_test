@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "sub.h"
+#include "sum.h"
 
 int main(void)
 {
